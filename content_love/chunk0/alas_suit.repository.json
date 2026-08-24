@@ -1,0 +1,13 @@
+{
+	"34b64856-15d2-493b-a09c-ca7f8cac89b0": {
+		"CommonName": "CHAR_Global_Hero_Alas_Suit_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_ALAS_SUIT_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_outfits_alas.jpg",
+		"ImageTransparent": "",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_ALAS_SUIT_NAME",
+		"TokenID": "TOKEN_OUTFIT_HERO_ALAS_SUIT",
+		"Category": ""
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"TOKEN_OUTFIT_HERO_ASLI_SUIT": {
+		"Guid": "5872ab7d-8c52-46ff-a6d9-451efddbb97a",
+		"Type": "disguise",
+		"Subtype": "casual",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "disguise",
+			"IsConsumable": false,
+			"RepositoryId": "5a4b2c19-d673-4d2f-8b9d-f404bbc5629a",
+			"OrderIndex": 21
+		},
+		"Rarity": "common"
+	}
+}

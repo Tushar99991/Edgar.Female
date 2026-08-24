@@ -1,0 +1,24 @@
+{
+	"TOKEN_OUTFIT_HERO_ALSI_SUIT": {
+		"Guid": "3e62eeb9-eee6-42e2-b3bf-c22e0c7ec7dc",
+		"Type": "disguise",
+		"Subtype": "casual",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "disguise",
+			"IsConsumable": false,
+			"RepositoryId": "b44b2495-5d2b-46b4-8420-b5980e3307ef",
+			"OrderIndex": 21
+		},
+		"Rarity": "common"
+	}
+}

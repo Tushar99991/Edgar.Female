@@ -1,0 +1,13 @@
+{
+	"b329e364-d678-419f-9971-a5a8e72b55c4": {
+		"CommonName": "CHAR_Global_Hero_Adim_Suit_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_ADIM_SUIT_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_outfits_adim.jpg",
+		"ImageTransparent": "",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_ADIM_SUIT_NAME",
+		"TokenID": "TOKEN_OUTFIT_HERO_ADIM_SUIT",
+		"Category": ""
+	}
+}

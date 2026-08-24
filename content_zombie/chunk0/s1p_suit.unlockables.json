@@ -1,0 +1,24 @@
+{
+	"TOKEN_OUTFIT_HERO_S1P_SUIT": {
+		"Guid": "ad5b5ff8-bad2-444c-8ab7-5bc9c8807d41",
+		"Type": "disguise",
+		"Subtype": "casual",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "disguise",
+			"IsConsumable": false,
+			"RepositoryId": "c3c29df5-4bab-4082-b5ca-b3e0271fc9e2",
+			"OrderIndex": 21
+		},
+		"Rarity": "common"
+	}
+}

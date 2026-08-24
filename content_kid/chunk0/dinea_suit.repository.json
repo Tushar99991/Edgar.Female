@@ -1,0 +1,13 @@
+{
+	"499a0aa2-5500-4829-b8f0-94b848f03638": {
+		"CommonName": "CHAR_Global_Hero_Dinea_Suit_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_DINEA_SUIT_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_outfits_dinea.jpg",
+		"ImageTransparent": "",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_DINEA_SUIT_NAME",
+		"TokenID": "TOKEN_OUTFIT_HERO_DINEA_SUIT",
+		"Category": ""
+	}
+}

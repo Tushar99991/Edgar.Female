@@ -1,0 +1,13 @@
+{
+	"b44b2495-5d2b-46b4-8420-b5980e3307ef": {
+		"CommonName": "CHAR_Global_Hero_Alsi_Suit_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_ALSI_SUIT_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_outfits_alsi.jpg",
+		"ImageTransparent": "",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_ALSI_SUIT_NAME",
+		"TokenID": "TOKEN_OUTFIT_HERO_ALSI_SUIT",
+		"Category": ""
+	}
+}

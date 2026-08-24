@@ -1,0 +1,13 @@
+{
+	"c3c29df5-4bab-4082-b5ca-b3e0271fc9e2": {
+		"CommonName": "CHAR_Global_Hero_S1p_Suit_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_S1P_SUIT_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_outfits_s1p.jpg",
+		"ImageTransparent": "",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_S1P_SUIT_NAME",
+		"TokenID": "TOKEN_OUTFIT_HERO_S1P_SUIT",
+		"Category": ""
+	}
+}

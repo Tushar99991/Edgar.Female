@@ -1,0 +1,24 @@
+{
+	"TOKEN_OUTFIT_HERO_ALAS_SUIT": {
+		"Guid": "27b97e3b-41b3-4956-b06d-cedce6749051",
+		"Type": "disguise",
+		"Subtype": "casual",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "disguise",
+			"IsConsumable": false,
+			"RepositoryId": "34b64856-15d2-493b-a09c-ca7f8cac89b0",
+			"OrderIndex": 21
+		},
+		"Rarity": "common"
+	}
+}
