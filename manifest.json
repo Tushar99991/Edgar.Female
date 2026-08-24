@@ -5,7 +5,7 @@
 	"description": "The collection of Diana Outfits.(MAKE SURE TO SELECT ALL OUTFIT CHECKBOXES)",
 	"authors": ["Edgar"],
 	"frameworkVersion": "2.33.41",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"options": [
 		{
 			"name": "Femme Fatale Peacock Addon",
@@ -484,5 +484,6 @@
 			"toChunk": 0,
 			"portFromChunk1": true
 		}
-	]
+	],
+	"updateCheck": "https://github.com/Tushar99991/Edgar.Female/releases/latest/download/updates.json"
 }
