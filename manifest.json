@@ -10,7 +10,7 @@
 		{
 			"name": "Femme Fatale Peacock Addon",
 			"type": "checkbox",
-			"tooltip": "Play as Diana in Femme Fatale's Outfit from in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"tooltip": "Play as Diana in Femme Fatale's Outfit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
 			"contentFolders": ["content_zombie"],
 			"blobsFolders": ["blobs_zombie"],
 			"localisedLines": {
