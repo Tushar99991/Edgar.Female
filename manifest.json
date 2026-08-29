@@ -4,9 +4,43 @@
 	"name": "A Diana Outfit Pack",
 	"description": "The collection of Diana Outfits.(MAKE SURE TO SELECT ALL OUTFIT CHECKBOXES)",
 	"authors": ["Edgar"],
-	"frameworkVersion": "2.33.41",
+	"frameworkVersion": "2.33.42",
 	"version": "1.1.0",
 	"options": [
+		{
+			"name": "Hot Justine Bassey suit Peacock Addon",
+			"type": "checkbox",
+			"tooltip": "Install the Diana in Justine Bassey's suit (from Snoop Dogg's ET) as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"contentFolders": ["content_sd9"],
+			"blobsFolders": ["blobs_sd9"],
+			"localisedLines": {
+				"009F6B415EAED3F7": "UI_TOKEN_OUTFIT_HERO_SD9_SUIT_NAME",
+				"00CCF42988DD9F33": "UI_TOKEN_OUTFIT_HERO_SD9_SUIT_DESC"
+			},
+			"localisation": {
+				"english": {
+					"UI_TOKEN_OUTFIT_HERO_SD9_SUIT_NAME": "Justine Bassey Suit",
+					"UI_TOKEN_OUTFIT_HERO_SD9_SUIT_DESC": "Justine Bassey Outfit from Haven Island's ET."
+				}
+			}
+		},
+		{
+			"name": "Naughty Beach Diana suit Peacock Addon",
+			"type": "checkbox",
+			"tooltip": "Install the Diana Hot Beach Suit as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"contentFolders": ["content_sd10"],
+			"blobsFolders": ["blobs_sd10"],
+			"localisedLines": {
+				"00E4C077A79771E1": "UI_TOKEN_OUTFIT_HERO_SD10_SUIT_NAME",
+				"00C21DAFAE5C3A04": "UI_TOKEN_OUTFIT_HERO_SD10_SUIT_DESC"
+			},
+			"localisation": {
+				"english": {
+					"UI_TOKEN_OUTFIT_HERO_SD10_SUIT_NAME": "Naughty Diana",
+					"UI_TOKEN_OUTFIT_HERO_SD10_SUIT_DESC": "Diana in beach outfit."
+				}
+			}
+		},
 		{
 			"name": "Femme Fatale Peacock Addon",
 			"type": "checkbox",
@@ -264,6 +298,26 @@
 		}
 	],
 	"dependencies": [
+		{
+			"runtimeID": "006A033DE579D258",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "00F75CB2FE54EB18",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "00E3803E18B5912D",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "00DC211EBD93241E",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
 		{
 			"runtimeID": "004869BFA1BC5E92",
 			"toChunk": 0,
