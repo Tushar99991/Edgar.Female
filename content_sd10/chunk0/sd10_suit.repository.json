@@ -1,1 +1,13 @@
-{"baac840f-0802-4881-89fa-4cd9658c1639":{"CommonName":"CHAR_Global_Hero_Sd10_Suit_M","Description":"UI_TOKEN_OUTFIT_HERO_SD10_SUIT_DESC","HeroDisguiseAvailable":true,"Image":"images/unlockables_override/47_outfits_sd10_suit.jpg","ImageTransparent":"","IsHitmanSuit":true,"Name":"UI_TOKEN_OUTFIT_HERO_SD10_SUIT_NAME","TokenID":"TOKEN_OUTFIT_HERO_SD10_SUIT","Category":""}}
+{
+	"baac840f-0802-4881-89fa-4cd9658c1639": {
+		"CommonName": "CHAR_Global_Hero_Sd10_Suit_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_SD10_SUIT_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_outfits_sd10_suit.jpg",
+		"ImageTransparent": "",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_SD10_SUIT_NAME",
+		"TokenID": "TOKEN_OUTFIT_HERO_SD10_SUIT",
+		"Category": ""
+	}
+}

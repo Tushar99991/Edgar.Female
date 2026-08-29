@@ -6,4 +6,4 @@ The collection of Diana Outfits.(MAKE SURE TO SELECT ALL OUTFIT CHECKBOXES)
 
 ---
 
-`Edgar.Female` v1.1.0, by Edgar. This README was automatically generated from the mod's manifest.
+`Edgar.Female` v1.2.0, by Edgar. This README was automatically generated from the mod's manifest.
