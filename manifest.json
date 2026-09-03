@@ -54,7 +54,7 @@
 		{
 			"name": "Providence Diana suit Peacock Addon",
 			"type": "checkbox",
-			"tooltip": "Install the Providence Diana in 's suit as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"tooltip": "Install the Providence Diana's suit as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
 			"contentFolders": [
 				"content_pfi"
 			],
