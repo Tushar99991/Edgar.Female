@@ -79,13 +79,7 @@
 			},
 			"events": {
 				"HitmanWetness": {
-					"T": [
-						"cafea9426dc672b7",
-						"cafe4771c41949b3",
-						"cafef33a3683f681",
-						"cafed8f930fa4efb",
-						"cafe58d0e93803c0"
-					]
+					"T": ["cafea9426dc672b7", "cafe4771c41949b3", "cafef33a3683f681", "cafed8f930fa4efb", "cafe58d0e93803c0"]
 				}
 			}
 		},
@@ -826,12 +820,7 @@
 				"m_bCollisionGroup1": { "type": "bool", "value": true },
 				"m_Spheres": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"cafeab382c403f9a",
-						"cafeea978e03ec56",
-						"cafefea17394480a",
-						"cafe5001041c4499"
-					],
+					"value": ["cafeab382c403f9a", "cafeea978e03ec56", "cafefea17394480a", "cafe5001041c4499"],
 					"postInit": true
 				},
 				"m_eidParent": {
@@ -1365,12 +1354,7 @@
 				},
 				"m_Spheres": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"cafeb32f39a7f3c2",
-						"cafe8e507c9afb2d",
-						"cafeab382c403f9a",
-						"cafea694ff9e5067"
-					],
+					"value": ["cafeb32f39a7f3c2", "cafe8e507c9afb2d", "cafeab382c403f9a", "cafea694ff9e5067"],
 					"postInit": true
 				},
 				"m_eidParent": {
@@ -2144,12 +2128,7 @@
 			"properties": {
 				"m_Spheres": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"cafe9a37f45a81d8",
-						"cafe170065ce4a5b",
-						"cafe5ccdbe7b0e4b",
-						"cafeab382c403f9a"
-					]
+					"value": ["cafe9a37f45a81d8", "cafe170065ce4a5b", "cafe5ccdbe7b0e4b", "cafeab382c403f9a"]
 				},
 				"m_mTransform": {
 					"type": "SMatrix43",

@@ -1,1 +1,13 @@
-{"7ff332fb-e94b-40dd-b103-ed9e0e9466a2":{"CommonName":"CHAR_Global_Hero_Pif_Suit_M","Description":"UI_TOKEN_OUTFIT_HERO_PIF_SUIT_DESC","HeroDisguiseAvailable":true,"Image":"images/unlockables_override/47_outfits_pif.jpg","ImageTransparent":"","IsHitmanSuit":true,"Name":"UI_TOKEN_OUTFIT_HERO_PIF_SUIT_NAME","TokenID":"TOKEN_OUTFIT_HERO_PIF_SUIT","Category":""}}
+{
+	"7ff332fb-e94b-40dd-b103-ed9e0e9466a2": {
+		"CommonName": "CHAR_Global_Hero_Pif_Suit_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_PIF_SUIT_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_outfits_pif.jpg",
+		"ImageTransparent": "",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_PIF_SUIT_NAME",
+		"TokenID": "TOKEN_OUTFIT_HERO_PIF_SUIT",
+		"Category": ""
+	}
+}

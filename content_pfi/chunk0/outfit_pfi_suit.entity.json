@@ -74,13 +74,7 @@
 			},
 			"events": {
 				"HitmanWetness": {
-					"T": [
-						"cafe41fe3289c87f",
-						"cafe90f01da7e2db",
-						"cafe45bce0238bfc",
-						"cafeb182ad4a4b16",
-						"cafe4b6063d438f3"
-					]
+					"T": ["cafe41fe3289c87f", "cafe90f01da7e2db", "cafe45bce0238bfc", "cafeb182ad4a4b16", "cafe4b6063d438f3"]
 				}
 			}
 		},
