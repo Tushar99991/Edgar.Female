@@ -89,7 +89,13 @@
 			},
 			"events": {
 				"HitmanWetness": {
-					"T": ["cafe22fb7fdca47e", "cafec9e1cfb1f74b", "cafef05a18682620", "cafe4a20a19fee16", "cafee0c5b6e3fdca"]
+					"T": [
+						"cafe22fb7fdca47e",
+						"cafec9e1cfb1f74b",
+						"cafef05a18682620",
+						"cafe4a20a19fee16",
+						"cafee0c5b6e3fdca"
+					]
 				}
 			}
 		},
@@ -1047,7 +1053,12 @@
 				"m_bCollisionGroup1": { "type": "bool", "value": false },
 				"m_Spheres": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["cafe3eb81c7f3358", "cafefa4106fbdb0d", "cafecde4c9f1d87c", "cafef115df5885c5"],
+					"value": [
+						"cafe3eb81c7f3358",
+						"cafefa4106fbdb0d",
+						"cafecde4c9f1d87c",
+						"cafef115df5885c5"
+					],
 					"postInit": true
 				},
 				"m_eidParent": {
@@ -1169,7 +1180,7 @@
 				},
 				"Texture2DNormal_02_enab": {
 					"type": "bool",
-					"value": false
+					"value": true
 				},
 				"Texture2D_01_enab": { "type": "bool", "value": true },
 				"m_eidParent": {
@@ -2513,7 +2524,7 @@
 						"position": { "x": 0.0, "y": 0.0, "z": 0.0 }
 					}
 				},
-				"Texture2D_01_enab": { "type": "bool", "value": false },
+				"Texture2D_01_enab": { "type": "bool", "value": true },
 				"ConstantVector1D_01_Value_op": {
 					"type": "IRenderMaterialEntity.EModifierOperation",
 					"value": "eReplace"

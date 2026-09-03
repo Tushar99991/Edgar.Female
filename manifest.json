@@ -3,16 +3,127 @@
 	"id": "Edgar.Female",
 	"name": "A Diana Outfit Pack",
 	"description": "The collection of Diana Outfits.(MAKE SURE TO SELECT ALL OUTFIT CHECKBOXES)",
-	"authors": ["Edgar"],
+	"authors": [
+		"Edgar"
+	],
 	"frameworkVersion": "2.33.42",
 	"version": "1.2.0",
 	"options": [
 		{
+			"name": "Casual Knight Diana's suit Peacock Addon",
+			"type": "checkbox",
+			"tooltip": "Install the Diana in Casual Andrea Morgan Knight's suit as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"contentFolders": [
+				"content_ipf"
+			],
+			"blobsFolders": [
+				"blobs_ipf"
+			],
+			"localisedLines": {
+				"006C7D097919340F": "UI_TOKEN_OUTFIT_HERO_IPF_SUIT_NAME",
+				"00237643B3F60C36": "UI_TOKEN_OUTFIT_HERO_IPF_SUIT_DESC"
+			},
+			"localisation": {
+				"english": {
+					"UI_TOKEN_OUTFIT_HERO_IPF_SUIT_NAME": "Casual Knight Diana",
+					"UI_TOKEN_OUTFIT_HERO_IPF_SUIT_DESC": "Casual Knight Suit of Andrea Morgan from Sniper Assassin Mode."
+				}
+			}
+		},
+		{
+			"name": "Falcon Knight Diana suit Peacock Addon",
+			"type": "checkbox",
+			"tooltip": "Install the Diana in Arctic Falcon Knight's suit as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"contentFolders": [
+				"content_pif"
+			],
+			"blobsFolders": [
+				"blobs_pif"
+			],
+			"localisedLines": {
+				"00FD79A61BEB7D2D": "UI_TOKEN_OUTFIT_HERO_PIF_SUIT_NAME",
+				"007811CE8EC41E9F": "UI_TOKEN_OUTFIT_HERO_PIF_SUIT_DESC"
+			},
+			"localisation": {
+				"english": {
+					"UI_TOKEN_OUTFIT_HERO_PIF_SUIT_NAME": "Falcon Knight Diana",
+					"UI_TOKEN_OUTFIT_HERO_PIF_SUIT_DESC": "Falcon Knight Outfit from Sniper Assassin Mode."
+				}
+			}
+		},
+		{
+			"name": "Providence Diana suit Peacock Addon",
+			"type": "checkbox",
+			"tooltip": "Install the Providence Diana in 's suit as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"contentFolders": [
+				"content_pfi"
+			],
+			"blobsFolders": [
+				"blobs_pfi"
+			],
+			"localisedLines": {
+				"00270A57BFF9FE23": "UI_TOKEN_OUTFIT_HERO_PFI_SUIT_NAME",
+				"00EE1681F2EAD7BB": "UI_TOKEN_OUTFIT_HERO_PFI_SUIT_DESC"
+			},
+			"localisation": {
+				"english": {
+					"UI_TOKEN_OUTFIT_HERO_PFI_SUIT_NAME": "Providence Diana",
+					"UI_TOKEN_OUTFIT_HERO_PFI_SUIT_DESC": "Providence Diana's Outfit from Mendoza Mission."
+				}
+			}
+		},
+		{
+			"name": "Production Staff Diana suit Peacock Addon",
+			"type": "checkbox",
+			"tooltip": "Install the Diana in Production Staff's suit (from Snoop Dogg's ET) as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"contentFolders": [
+				"content_php"
+			],
+			"blobsFolders": [
+				"blobs_php"
+			],
+			"localisedLines": {
+				"007EFCE9B0E60EAB": "UI_TOKEN_OUTFIT_HERO_PHP_SUIT_NAME",
+				"008D1F90DB6D2BE2": "UI_TOKEN_OUTFIT_HERO_PHP_SUIT_DESC"
+			},
+			"localisation": {
+				"english": {
+					"UI_TOKEN_OUTFIT_HERO_PHP_SUIT_NAME": "Production Staff Diana",
+					"UI_TOKEN_OUTFIT_HERO_PHP_SUIT_DESC": "Production Staff outfit from Haven Island's ET."
+				}
+			}
+		},
+		{
+			"name": "Waitress Diana suit Peacock Addon",
+			"type": "checkbox",
+			"tooltip": "Install the Diana in Waitress's suit (from Snoop Dogg's ET) as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
+			"contentFolders": [
+				"content_phd"
+			],
+			"blobsFolders": [
+				"blobs_phd"
+			],
+			"localisedLines": {
+				"0048EAC2C67DC8A1": "UI_TOKEN_OUTFIT_HERO_PHD_SUIT_NAME",
+				"0069359DEA54EF0E": "UI_TOKEN_OUTFIT_HERO_PHD_SUIT_DESC"
+			},
+			"localisation": {
+				"english": {
+					"UI_TOKEN_OUTFIT_HERO_PHD_SUIT_NAME": "Waitress Diana",
+					"UI_TOKEN_OUTFIT_HERO_PHD_SUIT_DESC": "Diana's Waitress outfit from Haven Island's ET."
+				}
+			}
+		},
+		{
 			"name": "Hot Justine Bassey suit Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Install the Diana in Justine Bassey's suit (from Snoop Dogg's ET) as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_sd9"],
-			"blobsFolders": ["blobs_sd9"],
+			"contentFolders": [
+				"content_sd9"
+			],
+			"blobsFolders": [
+				"blobs_sd9"
+			],
 			"localisedLines": {
 				"009F6B415EAED3F7": "UI_TOKEN_OUTFIT_HERO_SD9_SUIT_NAME",
 				"00CCF42988DD9F33": "UI_TOKEN_OUTFIT_HERO_SD9_SUIT_DESC"
@@ -28,8 +139,12 @@
 			"name": "Naughty Beach Diana suit Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Install the Diana Hot Beach Suit as a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_sd10"],
-			"blobsFolders": ["blobs_sd10"],
+			"contentFolders": [
+				"content_sd10"
+			],
+			"blobsFolders": [
+				"blobs_sd10"
+			],
 			"localisedLines": {
 				"00E4C077A79771E1": "UI_TOKEN_OUTFIT_HERO_SD10_SUIT_NAME",
 				"00C21DAFAE5C3A04": "UI_TOKEN_OUTFIT_HERO_SD10_SUIT_DESC"
@@ -45,8 +160,12 @@
 			"name": "Femme Fatale Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Diana in Femme Fatale's Outfit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_zombie"],
-			"blobsFolders": ["blobs_zombie"],
+			"contentFolders": [
+				"content_zombie"
+			],
+			"blobsFolders": [
+				"blobs_zombie"
+			],
 			"localisedLines": {
 				"003A821A3D778357": "UI_TOKEN_OUTFIT_HERO_S1P_SUIT_NAME",
 				"003D5EA3C4E90BED": "UI_TOKEN_OUTFIT_HERO_S1P_SUIT_DESC"
@@ -62,8 +181,12 @@
 			"name": "Lily Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Diana in Spider Lily's outfit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_spider"],
-			"blobsFolders": ["blobs_spider"],
+			"contentFolders": [
+				"content_spider"
+			],
+			"blobsFolders": [
+				"blobs_spider"
+			],
 			"localisedLines": {
 				"00061E6832F64320": "UI_TOKEN_OUTFIT_HERO_HB1_SUIT_NAME",
 				"004BCC2D8E4D845B": "UI_TOKEN_OUTFIT_HERO_HB1_SUIT_DESC"
@@ -79,8 +202,12 @@
 			"name": "Maid Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Diana in Maid outfit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_maid"],
-			"blobsFolders": ["blobs_maid"],
+			"contentFolders": [
+				"content_maid"
+			],
+			"blobsFolders": [
+				"blobs_maid"
+			],
 			"localisedLines": {
 				"002A980A2703FAE2": "UI_TOKEN_OUTFIT_HERO_SP1_SUIT_NAME",
 				"006D2E2717CC1437": "UI_TOKEN_OUTFIT_HERO_SP1_SUIT_DESC"
@@ -96,8 +223,12 @@
 			"name": "Ruby Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Diana in Ruby Red's outfit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_ruby"],
-			"blobsFolders": ["blobs_ruby"],
+			"contentFolders": [
+				"content_ruby"
+			],
+			"blobsFolders": [
+				"blobs_ruby"
+			],
 			"localisedLines": {
 				"00211309DF4A32C2": "UI_TOKEN_OUTFIT_HERO_H1B_SUIT_NAME",
 				"00571D9929278F7B": "UI_TOKEN_OUTFIT_HERO_H1B_SUIT_DESC"
@@ -113,8 +244,12 @@
 			"name": "Racer Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Diana in Racer outfit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_race"],
-			"blobsFolders": ["blobs_race"],
+			"contentFolders": [
+				"content_race"
+			],
+			"blobsFolders": [
+				"blobs_race"
+			],
 			"localisedLines": {
 				"00814E1782538ADD": "UI_TOKEN_OUTFIT_HERO_RAC3_SUIT_NAME",
 				"00E154CAAA3463DC": "UI_TOKEN_OUTFIT_HERO_RAC3_SUIT_DESC"
@@ -130,8 +265,12 @@
 			"name": "Princess Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Diana in Princess outfit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_nurse"],
-			"blobsFolders": ["blobs_nurse"],
+			"contentFolders": [
+				"content_nurse"
+			],
+			"blobsFolders": [
+				"blobs_nurse"
+			],
 			"localisedLines": {
 				"00F2E09B37D3F1F0": "UI_TOKEN_OUTFIT_HERO_NURI_SUIT_NAME",
 				"002B97D6D32ECEB4": "UI_TOKEN_OUTFIT_HERO_NURI_SUIT_DESC"
@@ -147,8 +286,12 @@
 			"name": "Indiana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Diana in Saree outfit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_indi"],
-			"blobsFolders": ["blobs_indi"],
+			"contentFolders": [
+				"content_indi"
+			],
+			"blobsFolders": [
+				"blobs_indi"
+			],
 			"localisedLines": {
 				"0009D9C46960873F": "UI_TOKEN_OUTFIT_HERO_ENDI_SUIT_NAME",
 				"004A5BD82153C3C7": "UI_TOKEN_OUTFIT_HERO_ENDI_SUIT_DESC"
@@ -164,8 +307,12 @@
 			"name": "The Admired Diana (Lust Escalation) Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as The Admired Diana in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_lust"],
-			"blobsFolders": ["blobs_lust"],
+			"contentFolders": [
+				"content_lust"
+			],
+			"blobsFolders": [
+				"blobs_lust"
+			],
 			"localisedLines": {
 				"001F789C3A3EB5B1": "UI_TOKEN_OUTFIT_HERO_ADIM_SUIT_NAME",
 				"00BEA892037C1F83": "UI_TOKEN_OUTFIT_HERO_ADIM_SUIT_DESC"
@@ -181,8 +328,12 @@
 			"name": "Doctor Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Doctor Diana a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_doc"],
-			"blobsFolders": ["blobs_doc"],
+			"contentFolders": [
+				"content_doc"
+			],
+			"blobsFolders": [
+				"blobs_doc"
+			],
 			"localisedLines": {
 				"00A62651BD82BDAA": "UI_TOKEN_OUTFIT_HERO_DOC1_SUIT_NAME",
 				"002B68CD641E0CD5": "UI_TOKEN_OUTFIT_HERO_DOC1_SUIT_DESC"
@@ -198,8 +349,12 @@
 			"name": "Gym Trainer Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Gym Trainer Diana a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_lol"],
-			"blobsFolders": ["blobs_lol"],
+			"contentFolders": [
+				"content_lol"
+			],
+			"blobsFolders": [
+				"blobs_lol"
+			],
 			"localisedLines": {
 				"00E97A17AB60C485": "UI_TOKEN_OUTFIT_HERO_ASAL_SUIT_NAME",
 				"00D0A21E133CC851": "UI_TOKEN_OUTFIT_HERO_ASAL_SUIT_DESC"
@@ -215,8 +370,12 @@
 			"name": "Short-Haired Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Short-Haired Diana a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_young"],
-			"blobsFolders": ["blobs_young"],
+			"contentFolders": [
+				"content_young"
+			],
+			"blobsFolders": [
+				"blobs_young"
+			],
 			"localisedLines": {
 				"00DB6331E84E588B": "UI_TOKEN_OUTFIT_HERO_ASLI_SUIT_NAME",
 				"00561368DD10603C": "UI_TOKEN_OUTFIT_HERO_ASLI_SUIT_DESC"
@@ -232,8 +391,12 @@
 			"name": "Diana Swimsuit Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Diana in swimsuit in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_swimsuit"],
-			"blobsFolders": ["blobs_swimsuit"],
+			"contentFolders": [
+				"content_swimsuit"
+			],
+			"blobsFolders": [
+				"blobs_swimsuit"
+			],
 			"localisedLines": {
 				"001AD96F5F49C375": "UI_TOKEN_OUTFIT_HERO_DINUX_SUIT_NAME",
 				"00C14538045632AF": "UI_TOKEN_OUTFIT_HERO_DINUX_SUIT_DESC"
@@ -249,8 +412,12 @@
 			"name": "Child Diana Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Child Diana a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_kid"],
-			"blobsFolders": ["blobs_kid"],
+			"contentFolders": [
+				"content_kid"
+			],
+			"blobsFolders": [
+				"blobs_kid"
+			],
 			"localisedLines": {
 				"00282E37D8667531": "UI_TOKEN_OUTFIT_HERO_DINEA_SUIT_NAME",
 				"0070ACFD4B00F316": "UI_TOKEN_OUTFIT_HERO_DINEA_SUIT_DESC"
@@ -266,8 +433,12 @@
 			"name": "Peter Burnwood (Diana's Father) Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Peter Burnwood (Diana's Father) in a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_mid"],
-			"blobsFolders": ["blobs_mid"],
+			"contentFolders": [
+				"content_mid"
+			],
+			"blobsFolders": [
+				"blobs_mid"
+			],
 			"localisedLines": {
 				"00435B7FB26C314F": "UI_TOKEN_OUTFIT_HERO_ALSI_SUIT_NAME",
 				"0031DB67B6F0C62D": "UI_TOKEN_OUTFIT_HERO_ALSI_SUIT_DESC"
@@ -283,8 +454,12 @@
 			"name": "Nancy Burnwood (Diana's Mother) Peacock Addon",
 			"type": "checkbox",
 			"tooltip": "Play as Nancy Burnwood (Diana's Mother) a Peacock/offline addon (does not replace existing suits). Works when playing offline or with Peacock.",
-			"contentFolders": ["content_love"],
-			"blobsFolders": ["blobs_love"],
+			"contentFolders": [
+				"content_love"
+			],
+			"blobsFolders": [
+				"blobs_love"
+			],
 			"localisedLines": {
 				"005AD1FC16094592": "UI_TOKEN_OUTFIT_HERO_ALAS_SUIT_NAME",
 				"00BDFB7214B1D6CA": "UI_TOKEN_OUTFIT_HERO_ALAS_SUIT_DESC"
@@ -298,6 +473,41 @@
 		}
 	],
 	"dependencies": [
+		{
+			"runtimeID": "0020B48E0A100374",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "0017998208E772FD",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "00B5DA9238EFBDC3",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "00F6518ED0D7BF28",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "003536D7E5886F33",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "001323AC24B3EDDD",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
+		{
+			"runtimeID": "003026B40F3F50D6",
+			"toChunk": 0,
+			"portFromChunk1": true
+		},
 		{
 			"runtimeID": "006A033DE579D258",
 			"toChunk": 0,
